@@ -5,13 +5,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        ink: '#172023',
-        forest: '#0f3d3e',
-        teal: '#176b68',
-        mint: '#e8f3ef',
+        ink: '#142126',
+        forest: '#075f73',
+        teal: '#0a7185',
+        mint: '#edf8f3',
         ivory: '#fbfaf7',
-        gold: '#b78946',
-        line: '#dfe6e2',
+        gold: '#56b947',
+        line: '#d9e7e5',
       },
       fontFamily: {
         sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
